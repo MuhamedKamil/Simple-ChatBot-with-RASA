@@ -38,4 +38,4 @@ for more details visit "https://rasa.com/docs/"
 * update this file with your own dataset 
 * using command "rasa train" aftar download project then follow steps 4 and 5 of "install and run instruction"
 # IMPORTANT NOTE 
-* Save any file you change in the project to avoid errors 
+* Save any file you change in the project to avoid errors  (ctrl + s)
