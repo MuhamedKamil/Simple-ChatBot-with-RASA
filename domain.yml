@@ -1,0 +1,41 @@
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - inform
+  - nationality
+  - inform_country
+
+actions:
+- utter_greet
+- utter_cheer_up
+- utter_did_that_help
+- utter_happy
+- utter_goodbye
+- utter_iamabot
+- Answer_fine
+- Answer_nationality
+
+templates:
+  utter_greet:
+  - text: "Dear Eng.mohamed kamel , Thanks for reaching out , I'm glad I will talk to you"
+
+  utter_cheer_up:
+  - text: "Listening to soothing music that relaxes your body and elevates your mind can significantly reduce how much stress you feel , Please try this idea"
+    
+  utter_did_that_help:
+  - text: "Did that help you? i hope so"
+
+  utter_happy:
+  - text: "Great"
+
+  utter_goodbye:
+  - text: "Bye , god bless you , I hope to talk to you again"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+  
