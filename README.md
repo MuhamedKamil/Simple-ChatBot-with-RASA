@@ -37,3 +37,5 @@ for more details visit "https://rasa.com/docs/"
 * open folder directory then open data sub-folder you will find the file named "nlu.md"
 * update this file with your own dataset 
 * using command "rasa train" aftar download project then follow steps 4 and 5 of "install and run instruction"
+# very IMPORTANT NOTE 
+* Save any file you change in the project to avoid errors 
