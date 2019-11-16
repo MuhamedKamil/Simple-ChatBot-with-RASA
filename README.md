@@ -2,8 +2,8 @@
 
 Rasa has two main components 
 
-* NLU - stands for natural language understanding used for understanding user messages 
-* Rasa Core - for responding to user's messages
+* NLU - stands for natural language understanding used for understanding user messages and predicting intents and entities.
+* Rasa Core - for responding to user's messages 
 
 for more details visit "https://rasa.com/docs/"
 
